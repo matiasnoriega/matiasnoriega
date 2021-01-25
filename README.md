@@ -1,5 +1,12 @@
-### Hi there 👋
+# Hello there, i'm Matías 👋
 
+### About me
+
+I'm a software developer/problem solver currently studying for a Computer Science degree in my hometown's [university](http://www.uno.edu.ar) :mortar_board:. Once in a while I like to give GIT workshops to fellow classmates who haven't heard the version control benefits :raised_hands: and once a year collaborate with the local [FLISOL](https://flisol.info) organization.
+
+### Nowdays
+
+I’m currently working with PHP, Symfony and VueJS :wrench: but i'm always open to learn new technologies 🌱. Looking for open-source projects to contribute!
 <!--
 **matiasnoriega/matiasnoriega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
