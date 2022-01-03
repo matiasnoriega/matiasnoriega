@@ -32,5 +32,5 @@ Here are some ideas to get you started:
   ![VueJS](https://img.shields.io/badge/Vue.js-35495E?style=plastic&logo=vue.js&logoColor=4FC08D)
   ![Git](https://img.shields.io/badge/-GIT-grey?style=plastic&logo=GIT)
   ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=plastic&logo=mysql&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plasticbadge&logo=html5&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white)
