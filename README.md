@@ -7,8 +7,6 @@ I'm a software developer/problem solver currently studying for a Computer Scienc
 ### Nowdays
 
 I’m currently working with Python :wrench: but i'm always open to learn new technologies 🌱. Looking for open-source projects to contribute! On this 2022 I would like to accomplish a ***sort-of-100DaysOfCode-challenge*** to gain more knowledge on certain tools, I will be writing about this on my site [https://matiasnoriega.github.io/](https://matiasnoriega.github.io/)
-<!--
-**matiasnoriega/matiasnoriega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ### Skills
   ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=plastic&logo=PHP&logoColor=white)
